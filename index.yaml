@@ -9,6 +9,6 @@ entries:
       name: k8s-customizations
       type: application
       urls:
-        - https://neilfarmer.github.io/k8s-customizations/k8s-customizations-0.1.0.tgz
-      version: 0.1.0
+        - https://neilfarmer.github.io/k8s-customizations/k8s-customizations-0.1.1.tgz
+      version: 0.1.1
 generated: "2024-11-29T14:23:12.130785-05:00"
