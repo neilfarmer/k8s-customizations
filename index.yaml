@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  k8s-customizations:
+    - apiVersion: v2
+      appVersion: 0.1.0
+      created: "2024-11-29T13:26:38.449205-05:00"
+      description: A Helm chart for Kubernetes Customizations
+      digest: 67d76e182252d1764733f863a8b8ab3fb8f803fb69df56250dde40b227827c1e
+      name: k8s-customizations
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/neilfarmer/k8s-customizations/main/k8s-customizations-0.1.0.tgz
+      version: 0.1.0
+generated: "2024-11-29T13:26:38.448402-05:00"
